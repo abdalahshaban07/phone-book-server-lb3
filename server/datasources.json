@@ -1,0 +1,14 @@
+{
+  "db": {
+    "host": "",
+    "port": "",
+    "url": "mongodb+srv://phoneBook:12345@phone-book-r8wm5.mongodb.net/test?retryWrites=true&w=majority",
+    "database": "",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true,
+    "connector": "mongodb"
+  }
+}
